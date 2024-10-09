@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD student in Static Analysis @ <a href='https://www.cs.cit.tum.de/pl/'>TUM</a>.
 
 profile:
   align: right
