@@ -1,34 +1,23 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"saan":
+  - firstname: ["Simmo", "S."]
+    url: https://sim642.eu/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"erhard":
+  - firstname: ["Julian", "J."]
+    url: https://www.cs.cit.tum.de/pl/personen/julian-erhard/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"vojdani":
+  - firstname: ["Vesal", "V."]
+    url: https://ut.ee/~vesal
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"holter":
+  - firstname: ["Karoliine", "K."]
+    url: https://ut.ee/en/node/105999
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"seidl":
+  - firstname: ["Helmut", "H."]
+    url: https://www.cs.cit.tum.de/pl/personen/helmut-seidl/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"tilscher":
+  - firstname: ["Sarah", "S."]
+    url: https://www.cs.cit.tum.de/pl/personen/sarah-tilscher/
