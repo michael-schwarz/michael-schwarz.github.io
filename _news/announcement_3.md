@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be at **SAS** and **NSAD** this year to present our NSAD paper **C-2PO: A Weakly Relational Pointer Domain**. See you there!
+I will be at **SAS** and **NSAD** this year to present our NSAD paper **C-2PO: A Weakly Relational Pointer Domain**. See you there! 🇺🇸
