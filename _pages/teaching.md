@@ -44,7 +44,7 @@ feel free to reach out to my colleagues Sarah Tilscher and Julian Erhard. For mo
 ## Bachelor's Theses
 
 - **Witnessing Violations of Safety Properties for Concurrent Programs** (Sofiia Danylchenko, 10/23)
-- **String Abstract Domains for the Static Analyzer Goblin*t* (Nathan Schmidt, 08/23)
+- **String Abstract Domains for the Static Analyzer Goblint** (Nathan Schmidt, 08/23)
 - **Combatting the Precision Loss of Partial Contexts in Abstract Interpretation** (Felix Krayer, 02/23)
 - **Automatic Configuration of Goblint - Tuning for Efficient, Yet Precise Enough Analyses of Programs** (Manuel Pietsch, 09/22, resulting in joint publication at SVCOMP '23)
 - **Increasing the Precision of the Static Analyzer Goblint by Loop Unrolling** (Mireia Cano Pujol, 02/22)
