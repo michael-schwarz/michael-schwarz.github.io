@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student in Static Analysis @ <a href='https://www.cs.cit.tum.de/pl/'>TUM</a> / m.schwarz@tum.de
+subtitle: PhD student in Static Analysis @ <a href='https://www.cs.cit.tum.de/pl/'>TUM</a> &nbsp;&nbsp;&nbsp;m.schwarz@tum.de
 
 profile:
   align: right
