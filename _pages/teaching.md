@@ -7,8 +7,8 @@ nav: true
 nav_order: 6
 ---
 
-# Classes
-## Exercise Instructor (Übungsleiter)
+## classes
+### exercise instructor (Übungsleiter)
 
 - **IN0003 Functional Programming and Verification** (Winter '21/'22, Summer '22, Summer '23, Summer '24)
 
@@ -17,7 +17,7 @@ nav_order: 6
   - Our head TAs presented part of the course framework at the OCaml Workshop@ICFP: [link](https://icfp23.sigplan.org/details/ocaml-2023-papers/11/Less-Power-for-More-Learning-Restricting-OCaml-Features-for-Effective-Teaching)
 - **IN2227 Compiler Construction** (Summer '20, Summer '21)
 
-## Instructor
+### instructor
 
 - **Practical Course: Static Analysis - Automated Bug Hunting and Beyond** (Summer '21, Summer '22, Winter '22/'23, Summer '23, Winter '23/'24)
 - **Practical Course: Program Optimization with LLVM** (Winter '19/'20, Summer '20)
@@ -26,12 +26,12 @@ nav_order: 6
 - **Master-Seminar: Static Analysis - Mastering Concurrency** (Winter '23/'24)
 
 
-# Theses
+## advised theses
 
 I currently do **not** have the capacity to supervise any additional students. If you are interested in doing a student thesis related to static analysis and Goblint,
 feel free to reach out to my colleagues Sarah Tilscher and Julian Erhard. For more information on possible student topics see [here](https://www.in.tum.de/i02/lehre/studienarbeiten/).
 
-## Master's Theses & Guided Research
+### master's theses & guided research
 
 - **Certifying Memory Safety of Concurrent Programs by Abstract Interpretation** (Stanimir Bozhilov, 10/23, resulting in two joint publications at SVCOMP'24)
 - **Local Traces: Partial Order Reduction for Free** (Olga Faddeenkov, 05/23)
@@ -41,7 +41,7 @@ feel free to reach out to my colleagues Sarah Tilscher and Julian Erhard. For mo
 - **Liveness Analysis of Multi-Threaded C with Posix Threads** (Denis Grebennicov, 05/21)
 - **Implementation and Comparison of Precision of Various Abstract Domains in the Program Analyzer Goblint** (Dymtro Yakymets, 11/20)
 
-## Bachelor's Theses
+### bachelor's theses
 
 - **Witnessing Violations of Safety Properties for Concurrent Programs** (Sofiia Danylchenko, 10/23)
 - **String Abstract Domains for the Static Analyzer Goblint** (Nathan Schmidt, 08/23)
