@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Fresh off the press: [Non-numerical weakly relational domains](https://doi.org/10.1007/s10009-024-00755-0)
+Fresh off the press: [Non-numerical weakly relational domains](https://doi.org/10.1007/s10009-024-00755-0) in STTT.
