@@ -27,3 +27,32 @@ nav_order: 6
 
 
 # Theses
+
+I currently do **not** have the capacity to supervise any additional students. If you are interested in doing a student thesis related to static analysis and Goblint,
+feel free to reach out to my colleagues Sarah Tilscher and Julian Erhard. For more information on possible student topics see [here](https://www.in.tum.de/i02/lehre/studienarbeiten/).
+
+## Master's Theses & Guided Research
+
+- **Certifying Memory Safety of Concurrent Programs by Abstract Interpretation** (Stanimir Bozhilov, 10/23, resulting in two joint publications at SVCOMP'24)
+- **Local Traces: Partial Order Reduction for Free** (Olga Faddeenkov, 05/23)
+- **Interactive Abstract Interpretation** (Kerem Cakirer, 05/22)
+- **Implementing and Comparing Linear Relational Domains in the Static Analyzer Goblint** (Martin Wehking, 05/22)
+- **Improved Abstract Domains for Structs in the Static Analyzer Goblint** (Jakob Erzar, 10/21)
+- **Liveness Analysis of Multi-Threaded C with Posix Threads** (Denis Grebennicov, 05/21)
+- **Implementation and Comparison of Precision of Various Abstract Domains in the Program Analyzer Goblint** (Dymtro Yakymets, 11/20)
+
+## Bachelor's Theses
+
+- **Witnessing Violations of Safety Properties for Concurrent Programs** (Sofiia Danylchenko, 10/23)
+- **String Abstract Domains for the Static Analyzer Goblin*t* (Nathan Schmidt, 08/23)
+- **Combatting the Precision Loss of Partial Contexts in Abstract Interpretation** (Felix Krayer, 02/23)
+- **Automatic Configuration of Goblint - Tuning for Efficient, Yet Precise Enough Analyses of Programs** (Manuel Pietsch, 09/22, resulting in joint publication at SVCOMP '23)
+- **Increasing the Precision of the Static Analyzer Goblint by Loop Unrolling** (Mireia Cano Pujol, 02/22)
+- **Towards an integration of Sarif into Goblint** (Alexander Eichler, 10/21)
+- **A Continuous Integration and Testing Platform for the Static Analyzer Goblint** (Andreas Ferrano, 04/21)
+- **Webtool to create and check canonical LR automata** (Leo Fahrbach, 02/21, co-supervised with Dr. Michael Petter)
+- **Extending a Syntactic Search in C Source Code with Analysis Results from the Static Analyzer Goblint** (Elias Brandstetter, 09/20)
+- **Extending a VS-Code Plugin for a LLVM-based Program Analyzer with a Mapping back to High Level Code** (Benedikt Kehrein, 09/20)
+- **Comparison of Analyses in CIL and Goblint** (Kerem Cakirer, 09/20)
+- **Syntactical Search in C Source Code** (Olga Faddeenkov, 07/20)
+- **User Interface for Program Analyzer Goblint using a OCaml-JavaScript Transpiler** (Alex Micheli, 05/20)
