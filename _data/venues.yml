@@ -1,8 +1,11 @@
 "VMCAI":
-  color: "#00369f"
+  color: "#e7c000"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"TACAS":
+  color: "e2f5ec"
 
 "STTT":
   color: "#009f36"
+
+"SAS":
+  color: "#42b983"
