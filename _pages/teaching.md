@@ -62,6 +62,7 @@ feel free to reach out to my colleagues Sarah Tilscher and Julian Erhard. For mo
 
 {% include bib_search.liquid %}
 
+### bachelor's theses
 <div class="publications">
-  {% bibliography --group_by none --query @*[selected=true]* --sort_by year,month %}
+  {% bibliography -f secondary --group_by none --query @*[selected=true]* --sort_by year,month %}
 </div>
