@@ -64,5 +64,10 @@ feel free to reach out to my colleagues Sarah Tilscher and Julian Erhard. For mo
 
 ### advised bachelor's theses
 <div class="publications">
-  {% bibliography -f secondary --group_by none --sort_by year,month %}
+  {% bibliography -f bachelor --group_by none --sort_by year,month %}
+</div>
+
+### advised master's theses & guided research
+<div class="publications">
+  {% bibliography -f master --group_by none --sort_by year,month %}
 </div>
