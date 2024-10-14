@@ -59,3 +59,9 @@ feel free to reach out to my colleagues Sarah Tilscher and Julian Erhard. For mo
 - **Comparison of Analyses in CIL and Goblint** (Kerem Cakirer, 09/20)
 - **Syntactical Search in C Source Code** (Olga Faddeenkov, 07/20)
 - **User Interface for Program Analyzer Goblint using a OCaml-JavaScript Transpiler** (Alex Micheli, 05/20)
+
+{% include bib_search.liquid %}
+
+<div class="publications">
+  {% bibliography --group_by none --query @*[selected=true]* --sort_by year,month %}
+</div>
