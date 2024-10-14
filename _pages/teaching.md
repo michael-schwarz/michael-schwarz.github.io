@@ -32,7 +32,7 @@ Before starting as a PhD student, I worked part-time as an undergrad TA, winning
 ## advised theses
 
 Over the years, I have had the joy of advising many students doing their Bachelor's or Master's thesis.
-This list contains only theses where I also was the formal advisor. I have informally co-advised Rebecca Ghidini and Johanna Franziska Schinabeck, resulting in publications at SOAP and NSAD, respectively. The formal advisor for Rebecca and Johanna was Julian Erhard. 
+This list contains only theses where I also was the formal advisor. I have informally co-advised Rebecca Ghidini and Johanna Franziska Schinabeck, resulting in publications at SOAP and NSAD, respectively. The formal advisor for Rebecca and Johanna was Julian Erhard.
 
 I am currently informally co-advising the M.Sc. thesis of Fabian Stemmler (with Julian Erhard and Sarah Tilscher), and the Guided Research of Felix Krayer (with Ali Koçal, Julian Erhard, and Sarah Tilscher).
 
@@ -42,11 +42,13 @@ feel free to reach out to my colleagues Sarah Tilscher and Julian Erhard. For mo
 {% include bib_search.liquid %}
 
 ### advised bachelor's theses
+
 <div class="publications">
   {% bibliography -f bachelor --group_by none --sort_by year,month %}
 </div>
 
 ### advised master's theses & guided research
+
 <div class="publications">
   {% bibliography -f master --group_by none --sort_by year,month %}
 </div>
