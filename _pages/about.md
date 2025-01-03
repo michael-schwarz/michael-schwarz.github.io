@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student in Static Analysis @ <a href='https://www.cs.cit.tum.de/pl/'>TUM</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(m.schwarz@tum.de)
+subtitle: PhD student in Static Analysis @ <a href='https://www.cs.cit.tum.de/pl/'>TUM</a>
 
 profile:
   align: right
@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in Helmut Seidl's [group](https://www.cs.cit.tum.de/en/pl/home/) and a participant in the DFG Research Training Group [ConVeY](https://convey.in.tum.de) (Continuous Verification of Cyber-Physical Systems).
+I am a PhD candidate in Helmut Seidl's [group](https://www.cs.cit.tum.de/en/pl/home/) and an alumnus of the DFG Research Training Group [ConVeY](https://convey.in.tum.de) (Continuous Verification of Cyber-Physical Systems).
 Having submitted my dissertation in late 2024, I currently expect to graduate some time in late Spring 2025.
 
 I am interested in **Static Analysis** and related techniques and currently work within the field of **Sound Static Analysis by Abstract Interpretation**. There, we have, e.g., proposed techniques for efficient abstract interpretation of **multi-threaded programs**, worked on increasing usability by **making static analysis incremental**,
