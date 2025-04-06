@@ -1,20 +1,26 @@
 "PLDI":
-  color: "#009f36"
+  color: "#008530"  # Dark green (agriculture/computing)
 
 "SAS":
-  color: "#00369f"
+  color: "#002870"  # Navy blue (trust/security)
 
 "VMCAI":
-  color: "#ff8a7a"
+  color: "#c64535"  # Brick red (energy/warning)
 
 "STTT":
-  color: "#006d6d"
+  color: "#005050"  # Dark teal (technical depth)
 
 "NSAD":
-  color: "#ff6d00"
+  color: "#b35900"  # Burnt orange (networks/robustness)
 
 "SOAP":
-  color: "#6a009f"
+  color: "#5a008a"  # Royal purple (abstraction/theory)
 
 "TACAS":
-  color: "#ff8a7a"
+  color: "#8e44ad"  # Vibrant violet (verification tools)
+
+"LNCS":
+  color: "#006b8f"  # Ocean blue (publishing/standards)
+
+"ESOP":
+  color: "#d35400"  # Pumpkin orange (European focus)
