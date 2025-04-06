@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Just accepted: Our paper "Taking out the Toxic Trash: Recovering Precision in Mixed Flow-Sensitive Static Analyses" will be presented at PLDI this year. See you in South Korea! 🇰🇷
+Just accepted: Our paper **Taking out the Toxic Trash: Recovering Precision in Mixed Flow-Sensitive Static Analyses** will be presented at **PLDI** this year. See you in South Korea! 🇰🇷
