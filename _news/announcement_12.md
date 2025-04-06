@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our team won a Recognition Award from Huawei for the performance of Goblint on industrial benchmarks submitted to SV-COMP'25 by their Dresden Research Center. 🏆
+Our team won a Recognition Award from Huawei for the performance of [Goblint](https://goblint.in.tum.de/) on [industrial benchmarks](https://gitlab.com/sosy-lab/benchmarking/sv-benchmarks/-/tree/main/c/libvsync?ref_type=heads) submitted to SV-COMP'25 by their Dresden Research Center. 🏆
