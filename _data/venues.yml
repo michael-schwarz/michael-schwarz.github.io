@@ -1,3 +1,5 @@
+# The comments are by Deepseek, I kept them because they sound funny
+
 "PLDI":
   color: "#008530"  # Dark green (agriculture/computing)
 
@@ -24,3 +26,15 @@
 
 "ESOP":
   color: "#d35400"  # Pumpkin orange (European focus)
+
+
+# On Teaching Page
+
+"B.Sc.":
+  color: "#005050"  # Dark teal (technical depth)
+
+"M.Sc.":
+  color: "#b35900"  # Burnt orange (networks/robustness)
+
+"Guided Research":
+  color: "#006b8f"  # Ocean blue (publishing/standards)
