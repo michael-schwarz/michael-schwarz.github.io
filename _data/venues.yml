@@ -1,40 +1,40 @@
 # The comments are by Deepseek, I kept them because they sound funny
 
 "PLDI":
-  color: "#008530"  # Dark green (agriculture/computing)
+  color: "#008530" # Dark green (agriculture/computing)
 
 "SAS":
-  color: "#002870"  # Navy blue (trust/security)
+  color: "#002870" # Navy blue (trust/security)
 
 "VMCAI":
-  color: "#c64535"  # Brick red (energy/warning)
+  color: "#c64535" # Brick red (energy/warning)
 
 "STTT":
-  color: "#005050"  # Dark teal (technical depth)
+  color: "#005050" # Dark teal (technical depth)
 
 "NSAD":
-  color: "#b35900"  # Burnt orange (networks/robustness)
+  color: "#b35900" # Burnt orange (networks/robustness)
 
 "SOAP":
-  color: "#5a008a"  # Royal purple (abstraction/theory)
+  color: "#5a008a" # Royal purple (abstraction/theory)
 
 "TACAS":
-  color: "#8e44ad"  # Vibrant violet (verification tools)
+  color: "#8e44ad" # Vibrant violet (verification tools)
 
 "LNCS":
-  color: "#006b8f"  # Ocean blue (publishing/standards)
+  color: "#006b8f" # Ocean blue (publishing/standards)
 
 "ESOP":
-  color: "#d35400"  # Pumpkin orange (European focus)
+  color: "#d35400" # Pumpkin orange (European focus)
 
 
 # On Teaching Page
 
 "B.Sc.":
-  color: "#005050"  # Dark teal (technical depth)
+  color: "#005050" # Dark teal (technical depth)
 
 "M.Sc.":
-  color: "#b35900"  # Burnt orange (networks/robustness)
+  color: "#b35900" # Burnt orange (networks/robustness)
 
 "Guided Research":
-  color: "#006b8f"  # Ocean blue (publishing/standards)
+  color: "#006b8f" # Ocean blue (publishing/standards)
