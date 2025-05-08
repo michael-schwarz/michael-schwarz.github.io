@@ -220,7 +220,7 @@ let determineThemeSetting = () => {
 let determineComputedTheme = () => {
   let themeSetting = determineThemeSetting();
   if (themeSetting == "system") {
-      return "dark";
+    return "dark";
   } else {
     return themeSetting;
   }
