@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2025-04-06 15:59:00-0400
+date: 2025-05-08 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Just accepted: Our paper **Taking out the Toxic Trash: Recovering Precision in Mixed Flow-Sensitive Static Analyses** will be presented at **PLDI** this year. See you in South Korea! 🇰🇷
+Our paper [Context Gas and friends: taming context-sensitivity on the fly](https://link.springer.com/article/10.1007/s10009-025-00803-3)
+has just appeared in the special issue of STTT dedicated to SOAP'24 🧼
