@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral reasearcher in Helmut Seidl's [group](https://www.cs.cit.tum.de/en/pl/home/),
+I am a postdoctoral researcher in Helmut Seidl's [group](https://www.cs.cit.tum.de/en/pl/home/),
 from which I graduated with a Dr. rer. nat. (summa cum laude) in late Spring 2025.
 During my PhD, I was also a member of the DFG Research Training Group [ConVeY](https://convey.in.tum.de) (Continuous Verification of Cyber-Physical Systems).
 
