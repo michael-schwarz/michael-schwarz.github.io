@@ -34,9 +34,6 @@ Before starting as a PhD student, I worked part-time as an undergrad TA, winning
 Over the years, I have had the joy of advising many students doing their Bachelor's or Master's thesis.
 This list contains mostly theses where I also was the formal advisor (otherwise, it is stated explicitly). I have informally co-advised Rebecca Ghidini and Johanna Franziska Schinabeck, resulting in publications at SOAP and NSAD, respectively. The formal advisor for Rebecca and Johanna was Julian Erhard.
 
-I currently do **not** have the capacity to supervise any additional students. If you are interested in doing a student thesis related to static analysis and Goblint,
-feel free to reach out to my colleagues Sarah Tilscher and Julian Erhard. For more information on possible student topics see [here](https://www.in.tum.de/i02/lehre/studienarbeiten/).
-
 {% include bib_search.liquid %}
 
 ### advised bachelor's theses
