@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Just accepted: Our paper **Data Race Detection by Digest-Driven Abstract Interpretation** will appear at **VMCAI** this year. See you in Rennes! 🇫🇷
+Just accepted: Our paper **Data Race Detection by Digest-Driven Abstract Interpretation** will appear at **VMCAI** next year. See you in Rennes! 🇫🇷
