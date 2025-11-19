@@ -5,5 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Looking forward to participating in the Dagstuhl Seminar [Sound Static Program Analysis in Modern Software Engineering](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25421)
-this October! 🤓
+Participating in the Dagstuhl Seminar [Sound Static Program Analysis in Modern Software Engineering](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25421)! 🤓
+
+Our slides: [Towards Interactive Abstract Interpretation for Multithreaded Programs](https://michael-schwarz.github.io/assets/pdf/interactive_abstract_interpretation_dagstuhl.pdf) 
