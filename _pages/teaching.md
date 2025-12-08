@@ -27,6 +27,14 @@ nav_order: 6
 - **Bachelor-Seminar: Static Analysis - Tools and Techniques** (Winter '23/'24)
 - **Master-Seminar: Static Analysis - Mastering Concurrency** (Winter '23/'24)
 
+### teaching assistant
+
+- **CS4211: Formal Methods for Software Engineering** (Semester 1, AY 25/26)
+  
+  - Co-designed lecture materials on static analysis by abstract interpretation, exam tasks, and problem sets
+  - Gave [hands-on session](https://www.youtube.com/watch?v=CoVFNbJJfZY) on the static analyzer Goblint as a guest lecture
+
+
 Before starting as a PhD student, I worked part-time as an undergrad TA, winning awards for best student TA (_Preis für die beste Lehre der Fakultät für Informatik_) in 2015, 2016, and 2017.
 
 ## advised theses
