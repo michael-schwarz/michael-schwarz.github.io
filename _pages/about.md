@@ -23,6 +23,6 @@ During my PhD, I was also a member of the DFG Research Training Group [ConVeY](h
 I am interested in **Static and Dynamic Analysis** and related topics. During my PhD, my work fell into the area of **Sound Static Analysis by Abstract Interpretation**. There, we have, e.g., proposed techniques for efficient abstract interpretation of **multi-threaded programs**, worked on increasing usability by **making static analysis incremental**,
 and designed **novel analyses for sometimes overlooked features** of the C programming language.
 
-I contribute to and have in the past co-maintained (with [Simmo Saan](https://sim642.eu) and [Karoliine Holter](https://ut.ee/en/node/105999) from UTartu) the static analysis framework [**Goblint**](https://goblint.in.tum.de) for multi-threaded C programs, which serves as the testbed for many of our ideas.
+I contribute to and have in the past co-maintained (with [Simmo Saan](https://sim642.eu) and [Karoliine Holter](https://ut.ee/en/employee/karoliine-holter) from UTartu) the static analysis framework [**Goblint**](https://goblint.in.tum.de) for multi-threaded C programs, which serves as the testbed for many of our ideas.
 
 Prior to my PhD, I received a B.Sc. from TUM in 2016, and an M.Sc. from TUM in 2019. During my Master's, I spent one term on exchange at the University of Waterloo and interned at NTNU as a software engineer for one term.
