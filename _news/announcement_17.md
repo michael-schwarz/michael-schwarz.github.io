@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2025-12-22 15:59:00-0400
+date: 2026-01-07 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Just accepted: Our paper **Same Engine, Multiple Gears: Parallelizing Fixpoint Iteration at Different Granularities** will appear at **TACAS** next year.
-Ali will be heading to Turin to present the paper. Make sure to say hello to him!
+Visited Helmut Seidl's [group at TUM](https://www.cs.cit.tum.de/en/pl/home/) for a few days and got to talk to old colleagues, some current collaborators, and undergrads currently doing BSc and MSc theses on Goblint. Thanks for having me!
