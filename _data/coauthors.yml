@@ -21,3 +21,23 @@
 "tilscher":
   - firstname: ["Sarah", "S."]
     url: https://www.cs.cit.tum.de/pl/personen/sarah-tilscher/
+
+"kocal":
+  - firstname: ["Ali Rasim", "A. R."]
+    url: https://www.cs.cit.tum.de/en/pl/personen/ali-rasim-kocal/
+
+"klumpp":
+  - firstname: ["Dominik", "D."]
+    url: https://dominik-klumpp.net/
+
+"heizmann":
+  - firstname: ["Matthias", "M."]
+    url: https://www.iste.uni-stuttgart.de/institute/team/Heizmann/
+
+"bentele":
+  - firstname: ["Manuel", "M."]
+    url: https://swt.informatik.uni-freiburg.de/staff/bentele
+
+"schuessele":
+  - firstname: ["Frank", "F."]
+    url: https://swt.informatik.uni-freiburg.de/staff/schuessele/personalPage
