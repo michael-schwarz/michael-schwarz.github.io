@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Just accepted: Our tutorial paper **Mixed Flow-Sensitive Static Analysis: Engineering Modularity** will appear at FM. 👨‍🏫  The corresponding half-day tutorial will happen on **May 19**. See you there! 🇯🇵
+Just accepted: Our tutorial paper **Mixed Flow-Sensitive Static Analysis: Engineering Modularity** will appear at FM. 👨‍🏫 The corresponding half-day tutorial will happen on **May 19**. See you there! 🇯🇵
