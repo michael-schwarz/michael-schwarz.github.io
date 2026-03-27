@@ -1,5 +1,8 @@
 # The comments are by Deepseek, I kept them because they sound funny
 
+"FM":
+  color: "#1a6b9a" # Steel blue (formal methods/rigor)
+
 "PLDI":
   color: "#008530" # Dark green (agriculture/computing)
 
