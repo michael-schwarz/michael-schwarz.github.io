@@ -3,6 +3,9 @@
 "FM":
   color: "#1a6b9a" # Steel blue (formal methods/rigor)
 
+"APLAS":
+  color: "#a63d7c" # Orchid plum (theory with a lively accent)
+
 "PLDI":
   color: "#008530" # Dark green (agriculture/computing)
 
