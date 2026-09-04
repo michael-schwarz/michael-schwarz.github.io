@@ -18,6 +18,10 @@
   - firstname: ["Helmut", "H."]
     url: https://www.cs.cit.tum.de/pl/personen/helmut-seidl/
 
+"petter":
+  - firstname: ["Michael", "M."]
+    url: https://www.cs.cit.tum.de/pl/personen/michael-petter/
+
 "tilscher":
   - firstname: ["Sarah", "S."]
     url: https://www.cs.cit.tum.de/pl/personen/sarah-tilscher/
