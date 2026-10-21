@@ -33,6 +33,9 @@
 "ESOP":
   color: "#d35400" # Pumpkin orange (European focus)
 
+"ATC":
+  color: "#008c95"
+
 # On Teaching Page
 
 "B.Sc.":
