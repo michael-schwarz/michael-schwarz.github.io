@@ -2,6 +2,14 @@
   - firstname: ["Simmo", "S."]
     url: https://sim642.eu/
 
+"paznikov":
+  - firstname: ["Alexey"]
+    url: https://apaznikov.github.io/
+
+"mathur":
+  - firstname: ["Umang"]
+    url: https://umangmathur.org/
+
 "erhard":
   - firstname: ["Julian", "J."]
     url: https://www.cs.cit.tum.de/pl/personen/julian-erhard/
