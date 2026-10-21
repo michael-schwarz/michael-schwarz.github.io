@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper Instrumentation Optimization for Practical Dynamic Race Detection has been accepted to <a href="https://sigops.org/s/conferences/atc/2026/index.html">ATC</a>. See you in Hong Kong 🇭🇰
+Our paper **Instrumentation Optimization for Practical Dynamic Race Detection** has been accepted to <a href="https://sigops.org/s/conferences/atc/2026/index.html">ATC</a>. See you in Hong Kong 🇭🇰
